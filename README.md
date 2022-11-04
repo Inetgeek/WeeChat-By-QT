@@ -20,18 +20,40 @@
 
 ### 样式
 #### 功能展示
-![image](https://user-images.githubusercontent.com/42563262/200006074-b1878880-ed47-4001-805a-ecc6897259d9.png)
-![image](https://user-images.githubusercontent.com/42563262/200006364-14144768-521a-4a15-97cc-9cb2bd9df476.png)
-![image](https://user-images.githubusercontent.com/42563262/200006574-bbf55622-dbce-490a-8d16-21a862107759.png)
-![image](https://user-images.githubusercontent.com/42563262/200006663-3ce1301b-6c64-403d-bfd3-f20fca204e0f.png)
-![image](https://user-images.githubusercontent.com/42563262/200006722-5c1de8fa-a99a-4190-82d5-473bed001aa8.png)
-![image](https://user-images.githubusercontent.com/42563262/200006852-0a6d4084-0533-403e-9bf9-19d97140d5d0.png)
-![image](https://user-images.githubusercontent.com/42563262/200006903-d574a6ab-d00b-4be4-99d7-3d3468b5d344.png)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/42563262/200006074-b1878880-ed47-4001-805a-ecc6897259d9.png" width="70%" height="70%"/>
+</div>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/42563262/200006364-14144768-521a-4a15-97cc-9cb2bd9df476.png" width="70%" height="70%"/>
+</div>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/42563262/200006574-bbf55622-dbce-490a-8d16-21a862107759.png" width="70%" height="70%"/>
+</div>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/42563262/200006663-3ce1301b-6c64-403d-bfd3-f20fca204e0f.png" width="70%" height="70%"/>
+</div>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/42563262/200006722-5c1de8fa-a99a-4190-82d5-473bed001aa8.png" width="70%" height="70%"/>
+</div>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/42563262/200006852-0a6d4084-0533-403e-9bf9-19d97140d5d0.png" width="70%" height="70%"/>
+</div>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/42563262/200006903-d574a6ab-d00b-4be4-99d7-3d3468b5d344.png" width="70%" height="70%"/>
+</div>
 
 #### 皮肤
-![image](https://user-images.githubusercontent.com/42563262/200007230-27680991-ff53-463c-add1-a353778f16ab.png)
-![image](https://user-images.githubusercontent.com/42563262/200007257-e9169dba-b107-44d7-985f-9aa260877765.png)
-![image](https://user-images.githubusercontent.com/42563262/200007288-e5a7404d-4fcd-4be6-b23e-6828918e6d91.png)
-![image](https://user-images.githubusercontent.com/42563262/200007315-b9d87848-a8f0-477b-8a6c-e9c1e6676980.png)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/42563262/200007230-27680991-ff53-463c-add1-a353778f16ab.png" width="70%" height="70%"/>
+</div>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/42563262/200007257-e9169dba-b107-44d7-985f-9aa260877765.png" width="70%" height="70%"/>
+</div>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/42563262/200007288-e5a7404d-4fcd-4be6-b23e-6828918e6d91.png" width="70%" height="70%"/>
+</div>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/42563262/200007315-b9d87848-a8f0-477b-8a6c-e9c1e6676980.png" width="70%" height="70%"/>
+</div>
 
 Copyright © 2022 InetGeek(Colyn), All Rights Reserved. 
