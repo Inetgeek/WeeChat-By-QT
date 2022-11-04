@@ -56,4 +56,6 @@
  <img src="https://user-images.githubusercontent.com/42563262/200007315-b9d87848-a8f0-477b-8a6c-e9c1e6676980.png" width="70%" height="70%"/>
 </div>
 
-Copyright © 2022 InetGeek(Colyn), All Rights Reserved. 
+<div align="center">
+ Copyright © 2022 InetGeek(Colyn), All Rights Reserved. 
+</div>
