@@ -3,7 +3,7 @@
 <div align="center">
  <img src="https://user-images.githubusercontent.com/42563262/200002086-20e21ae9-58f6-4d24-84eb-a2bf7571a84a.png" width="35%" height="35%"/>
 </div>
-------------------------
+============================
 
 ### 简介
 **WeeChat, 基于QT(C++)开发的局域网群聊客户端**
