@@ -4,6 +4,7 @@
  <img src="https://user-images.githubusercontent.com/42563262/200002086-20e21ae9-58f6-4d24-84eb-a2bf7571a84a.png" width="35%" height="35%"/>
 </div>
 ------
+
 ### 简介
 **WeeChat, 基于QT(C++)开发的局域网群聊客户端**
 >采用UDP组播的方式发现局域网内其他客户端，自动组网，形成分布式Peer2Peer聊天网格，无需设置单独的服务器或对方ip及端口均可。
